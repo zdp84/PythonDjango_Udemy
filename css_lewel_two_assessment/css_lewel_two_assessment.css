@@ -1,0 +1,28 @@
+h1{
+  font-family: 'Germania One', cursive;
+  text-align: center;
+}
+
+table{
+  width: 75%;
+  height: 300px;
+  margin: auto;
+}
+td{
+  border: 10px solid white;
+}
+#td1{
+  background-color: #EF6F6C;
+}
+#td2{
+  background-color: #3A3042;
+}
+#td3{
+  background-color: #FFE19C;
+}
+#td4{
+  background-color: #EDFFD9;
+}
+#td5{
+  background-color: #000000;
+}
